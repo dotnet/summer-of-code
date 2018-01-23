@@ -7,7 +7,7 @@ Please note that to apply for GSoC, you will need to go through the [standard Go
 Our framework project ideas fall under three top categories this year:
  * [ASP.NET](/projects/aspnet.md)
  * [Docs](/projects/docs.md)
- * [Templating](/projects/docs.md)
+ * [Templating](/projects/templating.md)
 
 Additionally, the following community project(s) under .NET Foundation are available:
  * [Open Live Writer](project/community/open-live-writer.md)
