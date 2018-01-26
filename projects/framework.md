@@ -2,10 +2,13 @@
 
 **Complexity:** Hard
 
-QUIC is emerging network protocol, which provides performance wins compared to TCP+TLS stack. Managed HttpClient is built-in .NET library, implemented in C# over TCP+TLS.
-The goal is to prototype QUIC protocol implementation in C#, using low-level language primitives and features for high performance, and no-allocations. The next step will be to plug in the transport protocol into managed HttpClient implementation.
+QUIC is emerging network protocol, which provides performance wins compared to TCP+TLS stack. The managed HttpClient is built-in .NET library, implemented in C# over TCP+TLS.
+The goal of this project is to create a prototype of QUIC protocol implementation in C#, using low-level language primitives and features for high performance, and no-allocations.
+The next step will be to plug in the transport protocol into managed HttpClient implementation.
 
-**Deliverables:** Library which can send and receive data via HttpClient using QUIC protocol.
+**Deliverables:**
+* Library which can send and receive data via QUIC protocol.
+* (Optional) Prototype plugging in the new QUIC implementation into the HttpClient.
 
 **Mentors:** Karel Zikmund
 
