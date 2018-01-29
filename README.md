@@ -11,4 +11,4 @@ Our framework project ideas fall under three top categories this year:
  * [Templating](/projects/templating.md)
 
 Additionally, the following community project(s) under .NET Foundation are available:
- * [Open Live Writer](project/community/open-live-writer.md)
+ * [Open Live Writer](projects/community/open-live-writer.md)
